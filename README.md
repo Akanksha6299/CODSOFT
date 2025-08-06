@@ -1,2 +1,2 @@
 # CODSOFT
-this is my first Git Repository
+LANDING PAGE
